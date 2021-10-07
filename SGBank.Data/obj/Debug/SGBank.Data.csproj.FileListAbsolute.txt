@@ -1,0 +1,9 @@
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Data.dll
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Data.pdb
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Models.dll
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\bin\Debug\SGBank.Models.pdb
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.csproj.AssemblyReference.cache
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.csproj.CopyComplete
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.dll
+C:\Users\tyoce\OneDrive\Desktop\C138\EvanTyo\repos\AssessmentFour\SGBank.UI\SGBank.Data\obj\Debug\SGBank.Data.pdb
